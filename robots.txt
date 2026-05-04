@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kutovoy-swag.github.io/notes-gc4s5y/sitemap.xml
